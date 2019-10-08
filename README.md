@@ -22,9 +22,15 @@ Hypotheses:
 
 H1: The incorporation of regional variables (weather, faction-control, road conditions, available alternative routes) will improve the prediciton of smuggling routes. 
 
+Within the timeframe allowed, we may incorporate a few initial variables which we find tend to affect route decision-making processes. We intend to weigh those variables as motivators or deterrents to picking what appears initially as the fastest route. Those weights will then allow for the choice to be based off several parameters. 
+
 H2: Given a forced-choice question, survey respondents will select similar paths as predicted by computer simulations.
 
+A survey will allow us to extract an average weight from participants preferrence, thus permitting us to validate the weights attributed by model in H1 are rational.
+
 H3: Geopolitical environment will influence region-specific routes. 
+We believe that geopolitical cirumstances will create pertinent factors that should be added as variables in a future time. Human behavior is dependent on the environment the human is in. This applies both to the smuggler, as to the law enforcement agents. We believe that we can weight the level of comfort a smuggler has when the nation is at war as more at ease (most likely to take the fastest route) than when the nation is not at war (most likely to take a furtive route to evade disruptions). This can be explained by the level of turmoil surrounding and what demands most focus from law enforcement. We believe that law enforcement agents are more likely to be corruptible in poorer nations (presence of faction may not be a factor to consider as a deterrent but rather as a motivator) than in a wealthy nation. The political atmosphere may also recalibrate those variables should there be popularity towards moving towards increase of wages and individual's wealth in the nation, as opposed to nations recently off colonialism where the population has not yet fully experienced the benefits of sovereignty when it comes to their voice.
+Should we be able to generate alternate routes with, for input, some of the variables describing the geopolitical environment, we would provide more accurate predictions specialized to the sites which could become vulnerable to looting and map possible routes before the looting occurs.
 
 (Motivation. Why is this problem interesting and relevant to the research community?)
 
